@@ -1,0 +1,1 @@
+import GraphQLServerOptions from "apollo-server-core/dist/graphqlOptions";
